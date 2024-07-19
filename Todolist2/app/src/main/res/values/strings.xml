@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="icons">icons</string>
+    <string name="title_activity_code">code</string>
+    <string name="title_activity_connexion">connexion</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+</resources>
